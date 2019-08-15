@@ -1,4 +1,4 @@
 # wikontor.github.io
-My User Page, Test
+My User Page
 
 Go to http://wikontor.github.io/
