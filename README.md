@@ -1,4 +1,4 @@
 # wikontor.github.io
-My User Page
+My Nice User Page
 
 Go to http://wikontor.github.io/
